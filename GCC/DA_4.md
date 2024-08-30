@@ -8,3 +8,7 @@ SQL sequel
 
 ## Data Visualization
 : it is a tech make data analyst can explain about data more easily  
+### Data Visualization Plan Steps  
+1. Looking for data pattern
+2. Planning Visualization
+3. Making Visual material
